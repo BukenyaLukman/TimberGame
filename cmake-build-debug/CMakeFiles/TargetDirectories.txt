@@ -1,0 +1,3 @@
+/home/bukenya/CLionProjects/Timber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bukenya/CLionProjects/Timber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bukenya/CLionProjects/Timber/cmake-build-debug/CMakeFiles/Timber.dir

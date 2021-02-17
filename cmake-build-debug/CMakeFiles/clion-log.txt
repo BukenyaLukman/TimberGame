@@ -1,0 +1,5 @@
+/home/bukenya/Downloads/Compressed/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/bukenya/CLionProjects/Timber
+-- Found SFML .. in /usr/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bukenya/CLionProjects/Timber/cmake-build-debug
